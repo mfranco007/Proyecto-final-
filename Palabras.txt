@@ -1,0 +1,50 @@
+if si es una estructura de control que valida una condicion
+asm ensamblador inserta instrucciones de ensamblador en linea
+auto automatico declara una variable de almacenamiento automatico
+bool booleana es una expresion cuyo resultado es de tipo logico
+break descanso quebrar, salir de un bucle
+case caso define un caso/etiqueta en una expresion de switch
+catch capturar captura la excepcion lanzada por throw
+char caracter nombre del tipo de datos caracter
+class clase coleccion encapsulada de datos y operaciones que actuan sobre los datos
+const_cast lanzamiento de constante conversion que remueve o agrega calificaciones const o valatil a un objeto
+const constante declara que la variable, mision o referencia no puede ser modificado
+continue continuar saltarse la iteracion en un bucle
+default por defecto gestionar el caso por defecto en una instruccion switch
+delete eliminar designar memoria que ha sido reservada dinamicamente
+do hacer inicio de una construccion de bucle do/while
+double doble nombre del tipo de datos de un punto flotante
+dinamic_cast lanzamiento dinamico adapta un puntero de un tipo base a un tipo de datos derivado
+else ademas/o ruta alternativa para una construccion if
+explicit explicito incapacitar un constructor unario de una clase para conversiones implitas
+false falso representar el valor booleano falso
+friend miembro designar una funcion no miembro como amiga de una clase
+private privado declarar los componentes privados de una clase
+protective protector declara los componentes protegidos de una clase
+public publico declara los componentes publicos de una clase
+register registrar almacena variable en un registro de la maquina en vez de la pila de memoria
+reinterpret_cast crear reinterpretacion convertir entre tipos de punteros o enteros sin cambiar el valor en memoria
+return regresar retorna desde una funcion
+short corto declara una variable como de tipo entero corto
+signed con signo/por defecto declara una variable entero como consigno
+sizeof tamano obtener el tamano en memoria de un tipo de datos
+static estatico crear almacenamiento permantente para una variable
+static_cast metodo estatico tratar de convertir un tipo de datos a otro implicitamente
+struct estructura define una estructura
+switch cambiador ejecuta codigo condicionado a los posibles valores de una varible integra
+template modelo crea una plantilla para codigo de funciones u objetos
+test prueba un puntero privado al objeto actual de una clase
+throw lanzar/arrojar arroja una excepcion
+true verdadero nombre del valor booleano verdadero
+try intentar ejecuta codigo que puede lanzar una excepcion
+typedef escribir definicion crea un alias para un tipo de datos
+typeid escribir identificador retorna informacion sobre un objeto
+typename escribir nombre declara que el proximo identificador es un tipo de datos
+union union declara una estructura que funde multiples valores en una misma ubicacion
+unsigned sin signo declara una variable entera como sin signo
+using usar importa un nombre o simbolo de una namespace de un ambito actual
+virtual virtual crea una funcion metodo que puede ser reemplazada por clases derivadas
+void evadir declaracion de una funcion que no devuelve un valor
+volatile volatil factor externo al programa
+wchar_t caracter ancho fijo nombre del tipo de datos de caracter "ancho"
+while mientras inicia un bucle "while" o termina un bucle "do-while"
